@@ -49,3 +49,18 @@ Thumbs.db
 *.wmv
 
 /.vs
+/CleanCQRS.Models/obj
+/CleanCQRS.Infrastructure/obj
+/CleanCQRS.Domain/obj
+/CleanCQRS.Application/obj
+/CleanCQRSWebAPI/obj
+/CleanCQRSWebAPI/bin/Debug/net5.0
+/CleanCQRS.Models/bin/Debug/net5.0
+/CleanCQRS.Infrastructure/bin/Debug/net5.0
+/CleanCQRS.Domain/bin/Debug/net5.0
+/CleanCQRS.Application/bin/Debug/net5.0
+/CleanCQRS.Application/bin/Debug/net6.0
+/CleanCQRS.Domain/bin/Debug/net6.0
+/CleanCQRS.Infrastructure/bin/Debug/net6.0
+/CleanCQRS.Models/bin/Debug/net6.0
+/CleanCQRSWebAPI/bin/Debug/net6.0

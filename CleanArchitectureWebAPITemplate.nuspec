@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>CleanArchitecture.CQRS.WebAPI</id>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <description>
       Template to create a .net Core Web API project based on Clean Architecture, CQRS
     </description>
